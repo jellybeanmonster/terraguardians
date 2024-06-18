@@ -2,8 +2,7 @@ First Meeting:
 
 Player Choices: A/B/C
 
-1."Hello there stranger, I'm Captain Sally Stench and my ship was hit by this big rock here while I was scouting this planet.My cadets were tragically killed during the crash and im the only survivor. 
-Before landing here I was scouting this planet and there seems to be lots of rare and useful materials underneath the soil, yeah?"
+1."Ah! How Dee there stranger, I'm Captain Sally Stench and me ship was blasted by some space rats while scouting here planet. My cadets seem to have been killed in the crash landin. Before arrivin here I was scouting this planet and there seems to be lots of rare and useful materials underneath the soil, yeah?"
 
 Choices> (A)Yes there is
 
